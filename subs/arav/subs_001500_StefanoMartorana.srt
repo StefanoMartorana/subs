@@ -6,8 +6,8 @@
 00:15:03,360 --> 00:15:06,880
 ## saying the information requested is pretty 
 ## standard for an audit so this is correct this  
-
-
+che dice "l'informazione richiesta è abbastanza
+semplice da confermare"
 
 
 157
